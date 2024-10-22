@@ -1,2 +1,3 @@
 # Githubdemo
-This is my first git repository
+This is my first git repository,
+Author - Akash Tayde
